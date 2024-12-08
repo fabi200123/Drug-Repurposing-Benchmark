@@ -1,0 +1,42 @@
+{
+    "V": [
+        "Lysine",
+        "Fluciclovine (18F)",
+        "Gadopentetic acid"
+    ],
+    "M": [
+        "Lamotrigine"
+    ],
+    "D": [
+        "Urea"
+    ],
+    "B": [
+        "Lysine",
+        "Urea"
+    ],
+    "S": [
+        "Emedastine",
+        "Alcaftadine"
+    ],
+    "N": [
+        "Flunarizine",
+        "Sulthiame",
+        "Dacarbazine"
+    ],
+    "L": [
+        "Streptozocin"
+    ],
+    "G": [
+        "Sulthiame"
+    ],
+    "J": [],
+    "P": [],
+    "A": [
+        "Repaglinide"
+    ],
+    "R": [],
+    "C": [
+        "Ornithine"
+    ],
+    "H": []
+}
